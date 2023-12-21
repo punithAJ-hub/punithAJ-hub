@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @punithAJ-hub
-- 👀 I’m interested in learning web applications development
+- 👋 Hi, I’m punithAJ
+- 👀 I’m a Graduate Student at Wayne State University.
 - 🌱 I’m currently learning web application development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Software Development
 - 📫 can reach me through mail - punithaj0007@gmail.com
 
 <!---
