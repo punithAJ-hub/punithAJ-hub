@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Software Engineer actively transitioning into AI Engineering, with 5+ years of experience building production-grade systems in **Java/Spring Boot** and **React/TypeScript**.
+I'm a Full-Stack Software Engineer actively transitioning into AI Engineering, with 5+ years of experience building production-grade systems in **Python/Fast API**,**Java/Spring Boot** and **React/TypeScript**.
 
 I'm currently on a focused self-directed journey building real-world LLM applications — RAG pipelines, AI agents, and structured LLM outputs — while earning cloud certifications to back it up.
 
