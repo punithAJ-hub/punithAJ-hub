@@ -1,28 +1,136 @@
-<h1 align="center">Hi 👋, I'm Punith A J</h1>
-<h3 align="center">I am a Graduate Student and a Software Developer Driven by an intrinsic passion for problem-solving and innovation in technology, I dedicate myself to developing software that not only meets functional requirements but also elevates user experience. Each line of code I write is a step towards a future where technology serves to enhance our capabilities and enrich our interactions.A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Punith A J 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=punithaj-hub&label=Profile%20views&color=0e75b6&style=flat" alt="punithaj-hub" /> </p>
+<h3 align="center">Full-Stack Software Engineer → AI Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punithaj-hub" alt="punithaj-hub" /></a> </p>
-
-- 🌱 I’m currently learning **React, Node.js**
-
-- 💬 Ask me about **Java, Springboot, OOPs ,MySQL etc..**
-
-- 📫 How to reach me **ajpunith5@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/punith agraharavalagerahalli jayaramu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punith agraharavalagerahalli jayaramu" height="30" width="40" /></a>
-<a href="https://instagram.com/punithaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="punithaj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/punith a j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="punith a j" height="30" width="40" /></a>
+<p align="center">
+  Java · Spring Boot · React · Python · LangChain · RAG · LLMs
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/punith-agraharavalagerahalli-jayaramu-b3289339a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ajpunith5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/punithAJ-hub" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=punithaj-hub&show_icons=true&locale=en&layout=compact" alt="punithaj-hub" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=punithaj-hub&label=Profile%20views&color=0e75b6&style=flat" alt="punithaj-hub" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punithaj-hub&show_icons=true&locale=en" alt="punithaj-hub" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punithaj-hub&" alt="punithaj-hub" /></p>
+## 👨‍💻 About Me
+
+I'm a Full-Stack Software Engineer actively transitioning into AI Engineering, with 5+ years of experience building production-grade systems in **Java/Spring Boot** and **React/TypeScript**.
+
+I'm currently on a focused self-directed journey building real-world LLM applications — RAG pipelines, AI agents, and structured LLM outputs — while earning cloud certifications to back it up.
+
+- 🎓 M.S. Computer Science — Wayne State University (GPA 3.87)
+- 🏢 Software Engineer Consultant @ **Capgemini**
+- 🚀 Former intern @ **Rocket Mortgage** — migrated rocket.com (10M+ users) from Angular → React/Next.js
+- 🤖 Building toward a full **AI Engineer** role
+- 📍 Troy, Michigan
+
+---
+
+## 🏆 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next%20Target-AWS%20ML%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+- ✅ **AWS Certified AI Practitioner** — Earned July 2026
+- 🎯 **AWS Certified ML Specialty (MLS-C01)** — In progress
+
+---
+
+## 🔨 Featured Projects
+
+### 🤖 RAG Document Assistant
+> End-to-end Retrieval-Augmented Generation pipeline that lets you chat with your own documents
+
+- Built with **LangChain**, **OpenAI embeddings**, **Pinecone** vector store
+- Document ingestion pipeline: load → chunk → embed → store → retrieve → generate
+- Streamlit UI with source citations and retrieval evaluation (recall@3)
+- **Stack:** Python · LangChain · Pinecone · OpenAI · Streamlit
+
+---
+
+### 🍕 AI Orderbot with Structured Output
+> Conversational pizza ordering assistant with Pydantic-validated JSON output
+
+- Full LLM-powered chat agent with multi-turn memory
+- Structured order extraction using OpenAI's `response_format` + Pydantic schemas
+- Retry logic for handling malformed LLM responses
+- **Stack:** Python · OpenAI SDK · Pydantic · Panel
+
+---
+
+### 🏠 Rocket Mortgage — rocket.com Migration *(Internship)*
+> Large-scale frontend migration for one of the USA's largest mortgage platforms
+
+- Migrated rocket.com from **Angular → React/Next.js** (10M+ monthly users)
+- Built a mortgage rules engine in **Java/Spring Boot** using the Strategy Pattern + AWS SQS
+- Reduced Dead Letter Queue failures from ~1,500/day → ~12/day
+- **Stack:** React · Next.js · Java · Spring Boot · AWS SQS · GraphQL
+
+---
+
+## 🛠️ Tech Stack
+
+### AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=punithaj-hub&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=punithaj-hub&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punithaj-hub&theme=github-dark-blue&hide_border=true" width="60%" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm actively building my AI engineering portfolio and open to connecting with engineers, recruiters, and teams working on LLM-powered products.
+
+- 📧 **ajpunith5@gmail.com**
+- 💼 **[LinkedIn](https://linkedin.com/in/punith-agraharavalagerahalli-jayaramu-b3289339a/)**
